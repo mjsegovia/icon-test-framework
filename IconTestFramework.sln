@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.Core", "IconTestFramework.Core\IconTestFramework.Core.csproj", "{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.UITests", "IconTestFramework.UITests\IconTestFramework.UITests.csproj", "{603BA267-1939-4A69-874E-E3DD2EFBB599}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.ApiTests", "TestFramework.ApiTests\IconTestFramework.ApiTests.csproj", "{9DFDA3AD-3010-4E00-A378-0BC976905A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconTestFramework.UIAutomation", "IconTestFramework.UIAutomation\IconTestFramework.UIAutomation.csproj", "{30D7637F-DD44-429A-B581-330EDE7432DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconTestFramework.ApiAutomation", "IconTestFramework.ApiAutomation\IconTestFramework.ApiAutomation.csproj", "{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603BA267-1939-4A69-874E-E3DD2EFBB599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603BA267-1939-4A69-874E-E3DD2EFBB599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603BA267-1939-4A69-874E-E3DD2EFBB599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603BA267-1939-4A69-874E-E3DD2EFBB599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFDA3AD-3010-4E00-A378-0BC976905A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFDA3AD-3010-4E00-A378-0BC976905A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFDA3AD-3010-4E00-A378-0BC976905A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFDA3AD-3010-4E00-A378-0BC976905A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D7637F-DD44-429A-B581-330EDE7432DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D7637F-DD44-429A-B581-330EDE7432DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D7637F-DD44-429A-B581-330EDE7432DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D7637F-DD44-429A-B581-330EDE7432DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E73BD5-EFB3-4ABE-9A0E-EA9BD9739AD0}
+	EndGlobalSection
+EndGlobal
