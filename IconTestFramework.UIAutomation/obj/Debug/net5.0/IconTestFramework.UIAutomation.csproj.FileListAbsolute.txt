@@ -2,7 +2,6 @@ C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesme
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.UIAutomation\bin\Debug\net5.0\IconTestFramework.UIAutomation.dll
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.UIAutomation\bin\Debug\net5.0\ref\IconTestFramework.UIAutomation.dll
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.UIAutomation\bin\Debug\net5.0\IconTestFramework.UIAutomation.pdb
-C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.UIAutomation\obj\Debug\net5.0\IconTestFramework.UIAutomation.csproj.AssemblyReference.cache
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.UIAutomation\obj\Debug\net5.0\IconTestFramework.UIAutomation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.UIAutomation\obj\Debug\net5.0\IconTestFramework.UIAutomation.AssemblyInfoInputs.cache
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.UIAutomation\obj\Debug\net5.0\IconTestFramework.UIAutomation.AssemblyInfo.cs

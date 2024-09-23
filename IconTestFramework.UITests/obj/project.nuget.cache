@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g0PthxPGk5c5lAiQtTeQUfbYej7xNfw4oqTYIsgU9/p92JzSnPbJ96p4Os7nZZKCYEQW6qdZ3zQIxbQTqcnD5Q==",
+  "dgSpecHash": "5ECan9lRlNQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\IconTestFramework.UITests.csproj",
   "expectedPackageFiles": [
@@ -42,9 +42,6 @@
     "C:\\Users\\mj_se\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
     "C:\\Users\\mj_se\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
     "C:\\Users\\mj_se\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.8\\specflow.tools.msbuild.generation.3.9.8.nupkg.sha512",
-    "C:\\Users\\mj_se\\.nuget\\packages\\specrun.runner\\3.9.7\\specrun.runner.3.9.7.nupkg.sha512",
-    "C:\\Users\\mj_se\\.nuget\\packages\\specrun.specflow\\3.9.7\\specrun.specflow.3.9.7.nupkg.sha512",
-    "C:\\Users\\mj_se\\.nuget\\packages\\specrun.specflow.3-9-0\\3.9.7\\specrun.specflow.3-9-0.3.9.7.nupkg.sha512",
     "C:\\Users\\mj_se\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\mj_se\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\mj_se\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

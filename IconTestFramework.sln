@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Blend for Visual Studio Version 16
+# Visual Studio Version 16
 VisualStudioVersion = 16.0.35229.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.Core", "IconTestFramework.Core\IconTestFramework.Core.csproj", "{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}"
@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.UITests",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.ApiTests", "TestFramework.ApiTests\IconTestFramework.ApiTests.csproj", "{9DFDA3AD-3010-4E00-A378-0BC976905A33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconTestFramework.UIAutomation", "IconTestFramework.UIAutomation\IconTestFramework.UIAutomation.csproj", "{30D7637F-DD44-429A-B581-330EDE7432DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.UIAutomation", "IconTestFramework.UIAutomation\IconTestFramework.UIAutomation.csproj", "{30D7637F-DD44-429A-B581-330EDE7432DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconTestFramework.ApiAutomation", "IconTestFramework.ApiAutomation\IconTestFramework.ApiAutomation.csproj", "{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconTestFramework.ApiAutomation", "IconTestFramework.ApiAutomation\IconTestFramework.ApiAutomation.csproj", "{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

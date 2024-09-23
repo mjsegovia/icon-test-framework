@@ -4,11 +4,84 @@
     "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\TestFramework.ApiTests\\IconTestFramework.ApiTests.csproj": {}
   },
   "projects": {
+    "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj",
+        "projectName": "IconTestFramework.ApiAutomation",
+        "projectPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj",
+        "packagesPath": "C:\\Users\\mj_se\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mj_se\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\TestFramework.ApiTests\\IconTestFramework.ApiTests.csproj": {
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\TestFramework.ApiTests\\IconTestFramework.ApiTests.csproj",
-        "projectName": "IconTestFramework.ApiTests",
+        "projectName": "9+6",
         "projectPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\TestFramework.ApiTests\\IconTestFramework.ApiTests.csproj",
         "packagesPath": "C:\\Users\\mj_se\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\TestFramework.ApiTests\\obj\\",
@@ -24,43 +97,59 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj": {
+                "projectPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
-              "version": "[6.2.0, )"
+              "version": "[6.12.1, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.0.0, )"
+              "version": "[17.11.1, )"
             },
             "SpecFlow.Plus.LivingDocPlugin": {
               "target": "Package",
               "version": "[3.9.57, )"
             },
-            "SpecRun.SpecFlow": {
+            "SpecFlow.xUnit": {
               "target": "Package",
-              "version": "[3.9.7, )"
+              "version": "[3.9.74, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.2, )"
             }
           },
           "imports": [
@@ -69,7 +158,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +168,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

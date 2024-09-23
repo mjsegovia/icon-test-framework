@@ -1,0 +1,13 @@
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\bin\Debug\net6.0\IconTestFramework.ApiAutomation.deps.json
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\bin\Debug\net6.0\IconTestFramework.ApiAutomation.dll
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\bin\Debug\net6.0\IconTestFramework.ApiAutomation.pdb
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.csproj.AssemblyReference.cache
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.AssemblyInfoInputs.cache
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.AssemblyInfo.cs
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.sourcelink.json
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.dll
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\refint\IconTestFramework.ApiAutomation.dll
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\IconTestFramework.ApiAutomation.pdb
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.ApiAutomation\obj\Debug\net6.0\ref\IconTestFramework.ApiAutomation.dll

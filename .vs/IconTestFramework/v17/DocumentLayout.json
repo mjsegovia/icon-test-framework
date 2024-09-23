@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}|IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.apiautomation\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}|IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj|solutionrelative:icontestframework.apiautomation\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
+              "RelativeToolTip": "IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:38:37.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

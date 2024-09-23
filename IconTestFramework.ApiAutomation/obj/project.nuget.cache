@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "O15Zj1hpvcKgD/EChvTtywjb5AH5abClOzNC/6p/0waja5zDlrR7sRUQmaR4Q7EdZM9SYPsf/h8RUrWkzzZ8Nw==",
+  "dgSpecHash": "W7okq2ajHeg=",
   "success": true,
   "projectFilePath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mj_se\\.nuget\\packages\\restsharp\\112.0.0\\restsharp.112.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
