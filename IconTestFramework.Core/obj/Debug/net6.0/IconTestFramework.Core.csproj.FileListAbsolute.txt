@@ -1,11 +1,7 @@
-C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\bin\Debug\net6.0\IconTestFramework.Core.exe
-C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\bin\Debug\net6.0\IconTestFramework.Core.dll.config
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\bin\Debug\net6.0\IconTestFramework.Core.deps.json
-C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\bin\Debug\net6.0\IconTestFramework.Core.runtimeconfig.json
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\bin\Debug\net6.0\IconTestFramework.Core.dll
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\bin\Debug\net6.0\IconTestFramework.Core.pdb
-C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.csproj.SuggestedBindingRedirects.cache
-C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.dll.config
+C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.csproj.AssemblyReference.cache
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.AssemblyInfoInputs.cache
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.AssemblyInfo.cs
@@ -14,5 +10,4 @@ C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesme
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.dll
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\refint\IconTestFramework.Core.dll
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.pdb
-C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\IconTestFramework.Core.genruntimeconfig.cache
 C:\Users\mj_se\OneDrive\Escritorio\Job Stuff\Searching Job Stuff\Company Assesments\Icon\icon-test-framework\IconTestFramework.Core\obj\Debug\net6.0\ref\IconTestFramework.Core.dll
