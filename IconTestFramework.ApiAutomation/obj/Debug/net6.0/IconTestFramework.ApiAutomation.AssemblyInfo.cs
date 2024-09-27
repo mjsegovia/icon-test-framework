@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IconTestFramework.ApiAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b0375e754b3da0cadfde3c9c9126a1e2bdb61c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b0796825f67c1ddd74ad9cb2c3d86f83f663b06")]
 [assembly: System.Reflection.AssemblyProductAttribute("IconTestFramework.ApiAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IconTestFramework.ApiAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,4 +8,8 @@
     <PackageReference Include="RestSharp" Version="112.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IconTestFramework.Core\IconTestFramework.Core.csproj" />
+  </ItemGroup>
+
 </Project>
