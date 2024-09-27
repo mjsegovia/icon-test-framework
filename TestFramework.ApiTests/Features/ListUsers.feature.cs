@@ -81,10 +81,7 @@ namespace IconTestFramework.ApiTests.Features
 #line 6
   #line hidden
 #line 7
-    testRunner.Given("the API endpoint to list users is \"/api/users\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-#line 8
-    testRunner.And("the API is up and running", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+    testRunner.Given("the API endpoint to list users is \'users\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
         }
         
@@ -96,8 +93,8 @@ namespace IconTestFramework.ApiTests.Features
         [Xunit.SkippableTheoryAttribute(DisplayName="Successfully retrieve a list of users for a specific page")]
         [Xunit.TraitAttribute("FeatureTitle", "User API - List Users")]
         [Xunit.TraitAttribute("Description", "Successfully retrieve a list of users for a specific page")]
-        [Xunit.InlineDataAttribute("1", "Janet", "Weaver", "janet.weaver@reqres.in", "img/faces/2-image.jpg", new string[0])]
-        [Xunit.InlineDataAttribute("2", "Byron", "Fields", "byron.fields@reqres.in", "img/faces/10-image.jpg", new string[0])]
+        [Xunit.InlineDataAttribute("1", "Janet", "Weaver", "janet.weaver@reqres.in", "https://reqres.in/img/faces/2-image.jpg", new string[0])]
+        [Xunit.InlineDataAttribute("2", "Byron", "Fields", "byron.fields@reqres.in", "https://reqres.in/img/faces/10-image.jpg", new string[0])]
         public void SuccessfullyRetrieveAListOfUsersForASpecificPage(string pageNumber, string firstName, string lastName, string email, string avatar, string[] exampleTags)
         {
             string[] tagsOfScenario = exampleTags;
@@ -108,7 +105,7 @@ namespace IconTestFramework.ApiTests.Features
             argumentsOfScenario.Add("Email", email);
             argumentsOfScenario.Add("Avatar", avatar);
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Successfully retrieve a list of users for a specific page", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 10
+#line 9
   this.ScenarioInitialize(scenarioInfo);
 #line hidden
             if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
@@ -121,20 +118,30 @@ namespace IconTestFramework.ApiTests.Features
 #line 6
   this.FeatureBackground();
 #line hidden
-#line 11
+#line 10
     testRunner.When(string.Format("I send a GET request with the query parameter \'page\' set to \'{0}\'", pageNumber), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
+#line 11
+    testRunner.Then("the response status should be \'Completed\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
 #line 12
-    testRunner.Then("the response status code should be 200", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+    testRunner.And("the response status code should be \'OK\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 13
     testRunner.And("the page number returned matches with the one specified in the URL", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
+                TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
+                            "first_name",
+                            "last_name",
+                            "email",
+                            "avatar"});
+                table1.AddRow(new string[] {
+                            string.Format("{0}", firstName),
+                            string.Format("{0}", lastName),
+                            string.Format("{0}", email),
+                            string.Format("{0}", avatar)});
 #line 14
-    testRunner.And("the response should contain a list of users of 6", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
-#line hidden
-#line 15
-    testRunner.And(string.Format("the list should contain users for page \'{0}\'", pageNumber), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+     testRunner.And(string.Format("the list should contain the following user for page {0}", pageNumber), ((string)(null)), table1, "And ");
 #line hidden
             }
             this.ScenarioCleanup();
@@ -148,7 +155,7 @@ namespace IconTestFramework.ApiTests.Features
             string[] tagsOfScenario = ((string[])(null));
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Non users are retrieve for a nonexistent page", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 23
+#line 24
    this.ScenarioInitialize(scenarioInfo);
 #line hidden
             if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
@@ -161,17 +168,17 @@ namespace IconTestFramework.ApiTests.Features
 #line 6
   this.FeatureBackground();
 #line hidden
-#line 24
-   testRunner.When("I send a GET request to with the query parameter \'page\' set to \'12\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
 #line 25
-   testRunner.Then("the response status code should be 200", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+   testRunner.When("I send a GET request with the query parameter \'page\' set to \'12\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 26
-    testRunner.And("the page number returned matches with the one spec ified in the URL", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+   testRunner.Then("the response status code should be \'OK\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
 #line 27
-    testRunner.And("the response should not contain usersendPoint", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+    testRunner.And("the page number returned matches with the one specified in the URL", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 28
+    testRunner.And("the response should not contain users", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             }
             this.ScenarioCleanup();
