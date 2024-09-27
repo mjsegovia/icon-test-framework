@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}|IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.apiautomation\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE8C7439-CD68-4F50-A1A8-F86D1397AA21}|IconTestFramework.ApiAutomation\\IconTestFramework.ApiAutomation.csproj|solutionrelative:icontestframework.apiautomation\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uitests\\steps\\notestepsdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|solutionrelative:icontestframework.uitests\\steps\\notestepsdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uitests\\steps\\loginstepsdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|solutionrelative:icontestframework.uitests\\steps\\loginstepsdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uitests\\features\\notesmanagement.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|solutionrelative:icontestframework.uitests\\features\\notesmanagement.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uitests\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|solutionrelative:icontestframework.uitests\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFDA3AD-3010-4E00-A378-0BC976905A33}|TestFramework.ApiTests\\IconTestFramework.ApiTests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\testframework.apitests\\features\\listusers.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DFDA3AD-3010-4E00-A378-0BC976905A33}|TestFramework.ApiTests\\IconTestFramework.ApiTests.csproj|solutionrelative:testframework.apitests\\features\\listusers.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uiautomation\\pageobjects\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|solutionrelative:icontestframework.uiautomation\\pageobjects\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uiautomation\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|solutionrelative:icontestframework.uiautomation\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uiautomation\\driver\\chromedrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|solutionrelative:icontestframework.uiautomation\\driver\\chromedrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uiautomation\\pageobjects\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|solutionrelative:icontestframework.uiautomation\\pageobjects\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uiautomation\\extensions\\seleniumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|solutionrelative:icontestframework.uiautomation\\extensions\\seleniumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uiautomation\\driver\\drivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|solutionrelative:icontestframework.uiautomation\\driver\\drivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uitests\\hooks\\testinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|solutionrelative:icontestframework.uitests\\hooks\\testinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uitests\\steps\\basesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|solutionrelative:icontestframework.uitests\\steps\\basesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}|IconTestFramework.Core\\IconTestFramework.Core.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.core\\config\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}|IconTestFramework.Core\\IconTestFramework.Core.csproj|solutionrelative:icontestframework.core\\config\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}|IconTestFramework.Core\\IconTestFramework.Core.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.core\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}|IconTestFramework.Core\\IconTestFramework.Core.csproj|solutionrelative:icontestframework.core\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uiautomation\\icontestframework.uiautomation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{30D7637F-DD44-429A-B581-330EDE7432DA}|IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj|solutionrelative:icontestframework.uiautomation\\icontestframework.uiautomation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.uitests\\icontestframework.uitests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{603BA267-1939-4A69-874E-E3DD2EFBB599}|IconTestFramework.UITests\\IconTestFramework.UITests.csproj|solutionrelative:icontestframework.uitests\\icontestframework.uitests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}|IconTestFramework.Core\\IconTestFramework.Core.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\icon\\icon-test-framework\\icontestframework.core\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD5A6CE-F1DC-458C-950D-21E02DEDA73A}|IconTestFramework.Core\\IconTestFramework.Core.csproj|solutionrelative:icontestframework.core\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +82,242 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HttpClientHelper.cs",
-              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
-              "RelativeDocumentMoniker": "IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
-              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
-              "RelativeToolTip": "IconTestFramework.ApiAutomation\\HttpClientHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Features\\Login.feature",
+              "RelativeDocumentMoniker": "IconTestFramework.UITests\\Features\\Login.feature",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Features\\Login.feature*",
+              "RelativeToolTip": "IconTestFramework.UITests\\Features\\Login.feature*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATwSURBVEhLnVRbbFRVFF3n3nm002k70PdMH5QWsC8hbUJIwKaGgH2gkUj0Q39MQ2LDB2r4MjHhwy9jJNFEo8QfFA0/RhE\u002BEIoCigXRlEKBStuhD0qfczuvO3M7d\u002Ba4z7mTMqXGWFfmzsw5d\u002B\u002B19157n8OQRt\u002Bt61yP6\u002Bj3D8DkyfTu2tDoq0OWMwuuLBd2NG1n4JzLADt6dvGCjYvwVnFUFpSAMUaP9PnP4BxY1EMI6jqmxhg2s04cO/I\u002BY99fOsNPDr6D5oYStPqew1PrGwBJnhmBvFes/wkchmnAHxzG5Yfn8OuPOeje0w127NTHfMp9Aq/Uv4qSnCJo8bm0QyZWBlCYDSluplePYVPsyHV4MBOdw1vHP8P\u002Bp3ugxrzRo\u002B07a\u002BFzlyCYCFCpKXJOSoJkyoTTXoCNxQfgzqrCYtxP0tlQ5z2IfNcmaPoIEskIyEPam6klhBOLcCgK7kb78VufH8psZB4qU6URs1qyDLFSmF0\u002B2Y5iOG356V1OgVSoqh12Wx7sqpt2FeEiOQSXw65AcCuioUIAiQx\u002Bu0pkRKIvzSAQHZR7DCpVaEqJtOg9xKni6sJ9qCroRI6zXNpkcghuGVbsLe9TNJ\u002BnDfXebmyrOAyv5xnMhm/gwcJZamKApEigf/xDkmcINUUvIcteCFVxkNtymstcNKXpup5AMD4C3XiEuKkRQQFyHF5E4hOkdxRJCsBJApHJXPhPPNQuYiJwnuynJGFGHInVASh8ND4J//wPGJ45hTHKPGJM0AvhSdpLI5A8CwjHR2n278tGM6ZISR5LYWFVAJGE07aeDhydibLXUV20Hy5HKfmpNIYusiBdmUPGU5QsNJUfQoP3DWyteNMaXWpyZhHKExUROI1kJdzOCpmVRg2OUvmF7ibasxpZlr9TZmuaESzGRqSPGAaRhPgvQshC6EsRf1Y0iByNhEYN1TATvIaFyG0ZyLduNxw0kmIuivNasKHwBRrRfJLyO9yZ\u002Bhx/TZ/MkMiqgi4cKL58Lx0QU0ojm0QIGw8wNH0CM6HfqZ0mkT9LDinY1Bxq8hLZJZGXXY0CqkrASIbovXVBCg5BEzOSENxKfWUjQkYYCVPoJ23SSC/oZGvRu1TVAkKxUZnVWOAcprSfMU9TZOUp07YSpI/gWphLoKGqCUrxuhKMLExgMjSJpElnMCUeypcmkdMX5wqN6DhG504jpI/TmmE\u002BNIDp4HUsmVFQZ8lO2Fu/gkNw6YFsFHmKwa78cYUf\u002BvRtFJbHUFtnQ55boSTEVQC0\u002BzqQm\u002B0mjhSmwzO4ExpEIKZRvunhsxK3QJknKUA0msLwPRPbafq6duy1TK72X\u002BXvffkBDBYGdwboWjRQ28Dx2paXiYTTzBs4P30B/jEdwUcu6oVdcj6JWIz6oTO4mAe9H50VWyJPC5euX\u002BY3/Xdwc6QftwIX0dqWh47SDkTMMO7Hh3DmpzHkmpvQua0L98aHoYWDMJYMeeMKCPm9xWWo8VWjprQSz7ftk9yZRUq0HG7ku/e6sMW9GTdmb2N0iGNxKhfXPvklbbHa59\u002Bw4iT3XuvllRtsYLYExgw/BvqIS6vEvpYu8VoQr4lcYEWAb3q/RVkFaRlPYuC2jq1lrWhv3oMXd3WmLdaO5Yy\u002BOv01P37hC8RZCOqSB3ubW3H04Lvi1ZqzzsRyBdXl1XA7cpDLSnHkQI8g/1\u002BSrATwN1VzM2ZLYFwgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-25T11:07:47.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UIAutomation\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "IconTestFramework.UIAutomation\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:38:37.602Z",
+              "WhenOpened": "2024-09-25T14:37:20.371Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardPage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\PageObjects\\DashboardPage.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UIAutomation\\PageObjects\\DashboardPage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\PageObjects\\DashboardPage.cs*",
+              "RelativeToolTip": "IconTestFramework.UIAutomation\\PageObjects\\DashboardPage.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:13:15.846Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesManagement.feature",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Features\\NotesManagement.feature",
+              "RelativeDocumentMoniker": "IconTestFramework.UITests\\Features\\NotesManagement.feature",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Features\\NotesManagement.feature*",
+              "RelativeToolTip": "IconTestFramework.UITests\\Features\\NotesManagement.feature*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATwSURBVEhLnVRbbFRVFF3n3nm002k70PdMH5QWsC8hbUJIwKaGgH2gkUj0Q39MQ2LDB2r4MjHhwy9jJNFEo8QfFA0/RhE\u002BEIoCigXRlEKBStuhD0qfczuvO3M7d\u002Ba4z7mTMqXGWFfmzsw5d\u002B\u002B19157n8OQRt\u002Bt61yP6\u002Bj3D8DkyfTu2tDoq0OWMwuuLBd2NG1n4JzLADt6dvGCjYvwVnFUFpSAMUaP9PnP4BxY1EMI6jqmxhg2s04cO/I\u002BY99fOsNPDr6D5oYStPqew1PrGwBJnhmBvFes/wkchmnAHxzG5Yfn8OuPOeje0w127NTHfMp9Aq/Uv4qSnCJo8bm0QyZWBlCYDSluplePYVPsyHV4MBOdw1vHP8P\u002Bp3ugxrzRo\u002B07a\u002BFzlyCYCFCpKXJOSoJkyoTTXoCNxQfgzqrCYtxP0tlQ5z2IfNcmaPoIEskIyEPam6klhBOLcCgK7kb78VufH8psZB4qU6URs1qyDLFSmF0\u002B2Y5iOG356V1OgVSoqh12Wx7sqpt2FeEiOQSXw65AcCuioUIAiQx\u002Bu0pkRKIvzSAQHZR7DCpVaEqJtOg9xKni6sJ9qCroRI6zXNpkcghuGVbsLe9TNJ\u002BnDfXebmyrOAyv5xnMhm/gwcJZamKApEigf/xDkmcINUUvIcteCFVxkNtymstcNKXpup5AMD4C3XiEuKkRQQFyHF5E4hOkdxRJCsBJApHJXPhPPNQuYiJwnuynJGFGHInVASh8ND4J//wPGJ45hTHKPGJM0AvhSdpLI5A8CwjHR2n278tGM6ZISR5LYWFVAJGE07aeDhydibLXUV20Hy5HKfmpNIYusiBdmUPGU5QsNJUfQoP3DWyteNMaXWpyZhHKExUROI1kJdzOCpmVRg2OUvmF7ibasxpZlr9TZmuaESzGRqSPGAaRhPgvQshC6EsRf1Y0iByNhEYN1TATvIaFyG0ZyLduNxw0kmIuivNasKHwBRrRfJLyO9yZ\u002Bhx/TZ/MkMiqgi4cKL58Lx0QU0ojm0QIGw8wNH0CM6HfqZ0mkT9LDinY1Bxq8hLZJZGXXY0CqkrASIbovXVBCg5BEzOSENxKfWUjQkYYCVPoJ23SSC/oZGvRu1TVAkKxUZnVWOAcprSfMU9TZOUp07YSpI/gWphLoKGqCUrxuhKMLExgMjSJpElnMCUeypcmkdMX5wqN6DhG504jpI/TmmE\u002BNIDp4HUsmVFQZ8lO2Fu/gkNw6YFsFHmKwa78cYUf\u002BvRtFJbHUFtnQ55boSTEVQC0\u002BzqQm\u002B0mjhSmwzO4ExpEIKZRvunhsxK3QJknKUA0msLwPRPbafq6duy1TK72X\u002BXvffkBDBYGdwboWjRQ28Dx2paXiYTTzBs4P30B/jEdwUcu6oVdcj6JWIz6oTO4mAe9H50VWyJPC5euX\u002BY3/Xdwc6QftwIX0dqWh47SDkTMMO7Hh3DmpzHkmpvQua0L98aHoYWDMJYMeeMKCPm9xWWo8VWjprQSz7ftk9yZRUq0HG7ku/e6sMW9GTdmb2N0iGNxKhfXPvklbbHa59\u002Bw4iT3XuvllRtsYLYExgw/BvqIS6vEvpYu8VoQr4lcYEWAb3q/RVkFaRlPYuC2jq1lrWhv3oMXd3WmLdaO5Yy\u002BOv01P37hC8RZCOqSB3ubW3H04Lvi1ZqzzsRyBdXl1XA7cpDLSnHkQI8g/1\u002BSrATwN1VzM2ZLYFwgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-27T00:15:32.175Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginStepsDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Steps\\LoginStepsDefinitions.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UITests\\Steps\\LoginStepsDefinitions.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Steps\\LoginStepsDefinitions.cs*",
+              "RelativeToolTip": "IconTestFramework.UITests\\Steps\\LoginStepsDefinitions.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:32:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteStepsDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Steps\\NoteStepsDefinition.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UITests\\Steps\\NoteStepsDefinition.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Steps\\NoteStepsDefinition.cs*",
+              "RelativeToolTip": "IconTestFramework.UITests\\Steps\\NoteStepsDefinition.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:30:42.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeleniumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\Extensions\\SeleniumHelper.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UIAutomation\\Extensions\\SeleniumHelper.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\Extensions\\SeleniumHelper.cs",
+              "RelativeToolTip": "IconTestFramework.UIAutomation\\Extensions\\SeleniumHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:14:32.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.Core\\Config\\appsettings.json",
+              "RelativeDocumentMoniker": "IconTestFramework.Core\\Config\\appsettings.json",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.Core\\Config\\appsettings.json",
+              "RelativeToolTip": "IconTestFramework.Core\\Config\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T22:56:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestInitialize.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Hooks\\TestInitialize.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UITests\\Hooks\\TestInitialize.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Hooks\\TestInitialize.cs",
+              "RelativeToolTip": "IconTestFramework.UITests\\Hooks\\TestInitialize.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:52:49.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IconTestFramework.UIAutomation",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj",
+              "RelativeDocumentMoniker": "IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj",
+              "RelativeToolTip": "IconTestFramework.UIAutomation\\IconTestFramework.UIAutomation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T18:12:01.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChromeDriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\Driver\\ChromeDriverManager.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UIAutomation\\Driver\\ChromeDriverManager.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\Driver\\ChromeDriverManager.cs",
+              "RelativeToolTip": "IconTestFramework.UIAutomation\\Driver\\ChromeDriverManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:56:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\Driver\\DriverManager.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UIAutomation\\Driver\\DriverManager.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\Driver\\DriverManager.cs",
+              "RelativeToolTip": "IconTestFramework.UIAutomation\\Driver\\DriverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:53:06.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\PageObjects\\BasePage.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UIAutomation\\PageObjects\\BasePage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UIAutomation\\PageObjects\\BasePage.cs",
+              "RelativeToolTip": "IconTestFramework.UIAutomation\\PageObjects\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:39:57.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseSteps.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Steps\\BaseSteps.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.UITests\\Steps\\BaseSteps.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\Steps\\BaseSteps.cs",
+              "RelativeToolTip": "IconTestFramework.UITests\\Steps\\BaseSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:59:56.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IconTestFramework.UITests",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\IconTestFramework.UITests.csproj",
+              "RelativeDocumentMoniker": "IconTestFramework.UITests\\IconTestFramework.UITests.csproj",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.UITests\\IconTestFramework.UITests.csproj",
+              "RelativeToolTip": "IconTestFramework.UITests\\IconTestFramework.UITests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T12:35:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.Core\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.Core\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.Core\\Domain\\User.cs",
+              "RelativeToolTip": "IconTestFramework.Core\\Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:52:03.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListUsers.feature",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\TestFramework.ApiTests\\Features\\ListUsers.feature",
+              "RelativeDocumentMoniker": "TestFramework.ApiTests\\Features\\ListUsers.feature",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\TestFramework.ApiTests\\Features\\ListUsers.feature",
+              "RelativeToolTip": "TestFramework.ApiTests\\Features\\ListUsers.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATwSURBVEhLnVRbbFRVFF3n3nm002k70PdMH5QWsC8hbUJIwKaGgH2gkUj0Q39MQ2LDB2r4MjHhwy9jJNFEo8QfFA0/RhE\u002BEIoCigXRlEKBStuhD0qfczuvO3M7d\u002Ba4z7mTMqXGWFfmzsw5d\u002B\u002B19157n8OQRt\u002Bt61yP6\u002Bj3D8DkyfTu2tDoq0OWMwuuLBd2NG1n4JzLADt6dvGCjYvwVnFUFpSAMUaP9PnP4BxY1EMI6jqmxhg2s04cO/I\u002BY99fOsNPDr6D5oYStPqew1PrGwBJnhmBvFes/wkchmnAHxzG5Yfn8OuPOeje0w127NTHfMp9Aq/Uv4qSnCJo8bm0QyZWBlCYDSluplePYVPsyHV4MBOdw1vHP8P\u002Bp3ugxrzRo\u002B07a\u002BFzlyCYCFCpKXJOSoJkyoTTXoCNxQfgzqrCYtxP0tlQ5z2IfNcmaPoIEskIyEPam6klhBOLcCgK7kb78VufH8psZB4qU6URs1qyDLFSmF0\u002B2Y5iOG356V1OgVSoqh12Wx7sqpt2FeEiOQSXw65AcCuioUIAiQx\u002Bu0pkRKIvzSAQHZR7DCpVaEqJtOg9xKni6sJ9qCroRI6zXNpkcghuGVbsLe9TNJ\u002BnDfXebmyrOAyv5xnMhm/gwcJZamKApEigf/xDkmcINUUvIcteCFVxkNtymstcNKXpup5AMD4C3XiEuKkRQQFyHF5E4hOkdxRJCsBJApHJXPhPPNQuYiJwnuynJGFGHInVASh8ND4J//wPGJ45hTHKPGJM0AvhSdpLI5A8CwjHR2n278tGM6ZISR5LYWFVAJGE07aeDhydibLXUV20Hy5HKfmpNIYusiBdmUPGU5QsNJUfQoP3DWyteNMaXWpyZhHKExUROI1kJdzOCpmVRg2OUvmF7ibasxpZlr9TZmuaESzGRqSPGAaRhPgvQshC6EsRf1Y0iByNhEYN1TATvIaFyG0ZyLduNxw0kmIuivNasKHwBRrRfJLyO9yZ\u002Bhx/TZ/MkMiqgi4cKL58Lx0QU0ojm0QIGw8wNH0CM6HfqZ0mkT9LDinY1Bxq8hLZJZGXXY0CqkrASIbovXVBCg5BEzOSENxKfWUjQkYYCVPoJ23SSC/oZGvRu1TVAkKxUZnVWOAcprSfMU9TZOUp07YSpI/gWphLoKGqCUrxuhKMLExgMjSJpElnMCUeypcmkdMX5wqN6DhG504jpI/TmmE\u002BNIDp4HUsmVFQZ8lO2Fu/gkNw6YFsFHmKwa78cYUf\u002BvRtFJbHUFtnQ55boSTEVQC0\u002BzqQm\u002B0mjhSmwzO4ExpEIKZRvunhsxK3QJknKUA0msLwPRPbafq6duy1TK72X\u002BXvffkBDBYGdwboWjRQ28Dx2paXiYTTzBs4P30B/jEdwUcu6oVdcj6JWIz6oTO4mAe9H50VWyJPC5euX\u002BY3/Xdwc6QftwIX0dqWh47SDkTMMO7Hh3DmpzHkmpvQua0L98aHoYWDMJYMeeMKCPm9xWWo8VWjprQSz7ftk9yZRUq0HG7ku/e6sMW9GTdmb2N0iGNxKhfXPvklbbHa59\u002Bw4iT3XuvllRtsYLYExgw/BvqIS6vEvpYu8VoQr4lcYEWAb3q/RVkFaRlPYuC2jq1lrWhv3oMXd3WmLdaO5Yy\u002BOv01P37hC8RZCOqSB3ubW3H04Lvi1ZqzzsRyBdXl1XA7cpDLSnHkQI8g/1\u002BSrATwN1VzM2ZLYFwgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-24T22:52:17.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configurator.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.Core\\Config\\Configurator.cs",
+              "RelativeDocumentMoniker": "IconTestFramework.Core\\Config\\Configurator.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\Icon\\icon-test-framework\\IconTestFramework.Core\\Config\\Configurator.cs",
+              "RelativeToolTip": "IconTestFramework.Core\\Config\\Configurator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:27:15.137Z",
               "EditorCaption": ""
             }
           ]
